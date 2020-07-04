@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1039004185615",
+    "firebase_url": "https://gmapwithchat.firebaseio.com",
+    "project_id": "gmapwithchat",
+    "storage_bucket": "gmapwithchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039004185615:android:e7394eb486104d0a531f7a",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039004185615-r0se5dggophue2ubstakm7n2qaug127t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.googlemaps2018",
+            "certificate_hash": "6ab2e93dafae0c9d2bfd9403314ad787a3e063d5"
+          }
+        },
+        {
+          "client_id": "1039004185615-31apbftspd2v1unus2unu5c0dh4r6idd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJoaZnX1deYRAzLO4-kfjV-ICv0dnPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039004185615-31apbftspd2v1unus2unu5c0dh4r6idd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039004185615:android:55ca4199f95b5ae9531f7a",
+        "android_client_info": {
+          "package_name": "com.example.mychatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039004185615-0uqg95755lt106u8afk4lm003eq3b3l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychatroom",
+            "certificate_hash": "6ab2e93dafae0c9d2bfd9403314ad787a3e063d5"
+          }
+        },
+        {
+          "client_id": "1039004185615-31apbftspd2v1unus2unu5c0dh4r6idd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJoaZnX1deYRAzLO4-kfjV-ICv0dnPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039004185615-31apbftspd2v1unus2unu5c0dh4r6idd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
